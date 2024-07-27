@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="300" height="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> <br>
-🌱 I’m now pursuing **computer science engineering**
+-🌱 I’m now pursuing **computer science engineering**
 <br>
 -👩‍💻 Currently learning **web development** 
 <br>
