@@ -1,4 +1,4 @@
-<div style="background-color:  black(15, 14, 16);">
+<div style="background-color: black;">
 
 
 <h1 align="center"  style="color: white;">Hi 👋, I'm Lakshmi Krishna V R </h1>
@@ -7,7 +7,7 @@
 <br>
 </div>
 <br>
-<img align="right" alt="Coding" width="400" height="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="right" alt="Coding" width="40" height="40" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmi-krishna-vr" alt="lakshmi-krishna-vr" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
