@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lakshmi-krishna-vr" alt="Lakshmi-krishna-vr" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="400" height="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
+<img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
 
 -🌱 I’m currently studying <strong> **computer science engineering**</strong>
 <br>
