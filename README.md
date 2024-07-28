@@ -10,14 +10,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lakshmi-krishna-vr" alt="Lakshmi-krishna-vr" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="450" height="450" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
--l<br>
+
 -🌱 I’m currently studying <strong> **computer science engineering**</strong>
 <br>
 - 📫 How to reach me  <strong>**vrlakshmikrishna@gmail.com**</strong>
 <br>
 
 -⚡ Fun fact <strong> **Code,coffee,repeat **</strong>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?
 <h3 align="left">Connect with me:</h3><br>
 <p align="left">
 <a href="https://linkedin.com/in/Lakshmi Krishna V R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi krishna v r" height="30" width="40" /></a>
