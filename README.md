@@ -3,7 +3,7 @@
 
 <h1 align="center"  style="color: white;"> <strong> Hi 👋, I'm Lakshmi Krishna V R </strong> </h1>
 
-<h3 align="center" width="100" height="100" style="color: white;" > <i>Coding enthusiast | Student| Learner</i></h3>
+<h3 align="center" width="100" height="200" style="color: white;" > <i>Coding enthusiast | Student| Learner</i></h3>
 <br>
 </div>
 <br>
