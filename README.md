@@ -14,9 +14,10 @@
 <img align="right" alt="Coding" width="450" height="450" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
 -🌱 I’m currently studying **computer science engineering**
 <br>
-- 📫 How to reach me **vrlakshmikrishna@gmail.com**<br>
+- 📫 How to reach me **vrlakshmikrishna@gmail.com**
+<br>
 
--⚡ Fun fact "Code,coffee,repeat"
+-⚡ Fun fact **Code,coffee,repeat **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
