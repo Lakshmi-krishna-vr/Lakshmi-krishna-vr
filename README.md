@@ -6,7 +6,6 @@
 <h3 align="center" width="100" height="200" style="color: white;" > <i>Coding enthusiast | Student| Learner</i></h3>
 <br>
 </div>
-<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lakshmi-krishna-vr" alt="Lakshmi-krishna-vr" /></a> </p>
 
