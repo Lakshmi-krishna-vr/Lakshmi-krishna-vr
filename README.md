@@ -12,12 +12,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="450" height="450" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
--🌱 I’m currently studying **computer science engineering**
+-🌱 I’m currently studying <strong> **computer science engineering**</strong>
 <br>
-- 📫 <strong> How to reach me </strong> **vrlakshmikrishna@gmail.com**
+- 📫 How to reach me  <strong>**vrlakshmikrishna@gmail.com**</strong>
 <br>
 
--⚡ Fun fact **Code,coffee,repeat **
+-⚡ Fun fact <strong> **Code,coffee,repeat **</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
