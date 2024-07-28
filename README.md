@@ -15,7 +15,7 @@
 <br>
 -📫 How to reach me  <strong>**vrlakshmikrishna@gmail.com**</strong>
 <br>
--⚡ Fun fact <strong> **Code,coffee,repeat **</strong>
+-⚡ Fun fact <strong> **Code,coffee,repeat**</strong>
 
 <h3 align="left">Connect with me:</h3><br>
 <p align="left">
