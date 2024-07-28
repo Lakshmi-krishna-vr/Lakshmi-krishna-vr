@@ -13,7 +13,7 @@
 
 -🌱 I’m currently studying <strong> **computer science engineering**</strong>
 <br>
-- 📫 How to reach me  <strong>**vrlakshmikrishna@gmail.com**</strong>
+-📫 How to reach me  <strong>**vrlakshmikrishna@gmail.com**</strong>
 <br>
 -⚡ Fun fact <strong> **Code,coffee,repeat **</strong>
 
