@@ -14,8 +14,6 @@
 <img align="right" alt="Coding" width="450" height="450" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
 -🌱 I’m now pursuing **computer science engineering**
 <br>
--👩‍💻 Currently learning **web development** 
-<br>
 - 📫 How to reach me **vrlakshmikrishna@gmail.com**<br>
 
 -⚡ Fun fact "Code,coffee,repeat"
