@@ -1,7 +1,7 @@
 <div style="background-color: black;">
 
 
-<h1 align="center"  style="color: white;"> <strong>Hi 👋, I'm Lakshmi Krishna V R </strong> </h1>
+<h1 align="center"  style="color: white;"> <strong> Hi 👋, I'm Lakshmi Krishna V R </strong> </h1>
 
 <h3 align="center" width="100" style="color: white;" > Coding enthusiast | Student| Learner</h3>
 <br>
@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="450" height="450" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
 -🌱 I’m currently studying **computer science engineering**
 <br>
-- 📫 How to reach me **vrlakshmikrishna@gmail.com**
+- 📫 <strong> How to reach me </strong> **vrlakshmikrishna@gmail.com**
 <br>
 
 -⚡ Fun fact **Code,coffee,repeat **
