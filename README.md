@@ -4,7 +4,7 @@
 <h1 align="center"  style="color: white;"> <strong> Hi 👋, I'm Lakshmi Krishna V R </strong> </h1>
 
 <h3 align="center" width="100" height="200" style="color: white;" > <i>Coding enthusiast | Student| Learner</i></h3>
-<br>
+
 <h3 align="center" width="100" height="200" style="color: white;" >I am a passionate Computer Science engineering student with a keen interest in coding, algorithms, and software development. My journey in the world of technology began with a fascination for how things work, leading me to pursue a degree in Computer Science.</h3>
 </div>
 
