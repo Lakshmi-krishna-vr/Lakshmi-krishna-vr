@@ -18,7 +18,7 @@
 <br>
 -⚡ Fun fact <strong> **Code,coffee,repeat**</strong>
 <h3>Workshops Attended</h3>
--Workshop on AI with Phython conductor by IIT kharagpur
+-Workshop on AI with Phython conductor by IIT kharagpur<br>
 -PMI-Wings 
 <h3 align="left">Connect with me:</h3><br>
 <p align="left">
