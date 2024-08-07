@@ -17,7 +17,7 @@
 -📫 How to reach me  <strong>**vrlakshmikrishna@gmail.com**</strong>
 <br>
 -⚡ Fun fact <strong> **Code,coffee,repeat**</strong>
-<h3> **Workshops**</h3><br>
+<h3>Workshops Attended</h3>
 <h3>Workshop on AI with Phython conductor by IIT kharagpur</h3>
 <h3>PMI-Wings 
 <h3 align="left">Connect with me:</h3><br>
