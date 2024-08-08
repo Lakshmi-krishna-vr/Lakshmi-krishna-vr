@@ -5,7 +5,7 @@
 
 <h3 align="center" width="100" height="200" style="color: white;" > <i>Coding enthusiast | Student| Learner</i></h3>
 
-<h3 align="center" width="100" height="200" style="color: white;" >I am a passionate Computer Science engineering student with a keen interest in coding, algorithms, and software development. My journey in the world of technology began with a fascination for how things work, leading me to pursue a degree in Computer Science.</h3>
+<h5 align="center" width="100" height="200" style="color: white;" >I am a passionate Computer Science engineering student with a keen interest in coding, algorithms, and software development. My journey in the world of technology began with a fascination for how things work, leading me to pursue a degree in Computer Science.</h5>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lakshmi-krishna-vr" alt="Lakshmi-krishna-vr" /></a> </p>
