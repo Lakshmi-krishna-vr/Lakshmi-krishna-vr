@@ -3,7 +3,7 @@
 
 <h1 align="center"  style="color: white;"> <strong> Hi 👋, I'm Lakshmi Krishna V R </strong> </h1>
 
-<h2 align="center" width="100" height="200" style="color: white;" > <i>Coding enthusiast | Student| Learner</i></h2>
+<h2 align="center" width="100" height="200" style="color: white;" > <i>Coding enthusiast | ML/AI| Cloud Computing</i></h2>
 
 <h5 align="center" width="100" height="200" style="color: white;" >I am a passionate Computer Science engineering student with a keen interest in coding, algorithms, and software development. My journey in the world of technology began with a fascination for how things work, leading me to pursue a degree in Computer Science.</h5>
 </div>
@@ -17,9 +17,9 @@
 -📫 How to reach me  <strong>**vrlakshmikrishna@gmail.com**</strong>
 <br>
 -⚡ Fun fact <strong> **Code,coffee,repeat**</strong>
-<h3>Workshops Attended :</h3>
--Workshop on AI with Phython conductor by IIT kharagpur<br>
--PMI-Wings 
+<h3>Experience :</h3>
+-Internship at NeST Digital<br>
+-Contestant at Smart India Hackathon
 <h3 align="left">Connect with me:</h3><br>
 <p align="left">
 <a href="https://www.linkedin.com/in/lakshmi-krishna-v-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi krishna v r" height="30" width="40" /></a>
