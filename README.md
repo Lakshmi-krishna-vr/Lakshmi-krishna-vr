@@ -19,6 +19,8 @@
 -⚡ Fun fact <strong> **Code,coffee,repeat**</strong>
 <h3>Experience :</h3>
 -Internship at NeST Digital<br>
+=Intel Industrial Trainee
+-Finalist of Stride Makeathon 2025
 -Contestant at Smart India Hackathon
 <h3 align="left">Connect with me:</h3><br>
 <p align="left">
