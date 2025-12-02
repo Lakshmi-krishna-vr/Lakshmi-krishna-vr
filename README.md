@@ -1,37 +1,142 @@
-<div style="background-color: black;">
+<div style="background-color: black; padding: 20px;">
 
+<h1 align="center" style="color: white;"><strong> Hi 👋, I'm Lakshmi Krishna V R </strong></h1>
 
-<h1 align="center"  style="color: white;"> <strong> Hi 👋, I'm Lakshmi Krishna V R </strong> </h1>
+<h2 align="center" style="color: white;"><i>Coding Enthusiast | ML & AI | Cloud Computing | Data Science</i></h2>
 
-<h2 align="center" width="100" height="200" style="color: white;" > <i>Coding enthusiast | ML/AI| Cloud Computing</i></h2>
-
-<h5 align="center" width="100" height="200" style="color: white;" >I am a passionate Computer Science engineering student with a keen interest in coding, algorithms, and software development. My journey in the world of technology began with a fascination for how things work, leading me to pursue a degree in Computer Science.</h5>
+<h5 align="center" style="color: white;">
+I am a Computer Science Engineering student passionate about building intelligent systems using Machine Learning, Deep Learning, and Cloud technologies. I enjoy solving real-world problems, developing innovative software solutions, and learning cutting-edge technologies.
+</h5>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lakshmi-krishna-vr" alt="Lakshmi-krishna-vr" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="500" height="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
+---
 
--🌱 I’m currently studying <strong> **computer science engineering**</strong>
-<br>
--📫 How to reach me  <strong>**vrlakshmikrishna@gmail.com**</strong>
-<br>
--⚡ Fun fact <strong> **Code,coffee,repeat**</strong>
-<h3>Experience :</h3>
--Internship at NeST Digital<br>
--Intel Industrial Trainee<br>
--Finalist of Stride Makeathon 2025<br>
--Contestant at Smart India Hackathon
-<h3 align="left">Connect with me:</h3><br>
 <p align="left">
-<a href="https://www.linkedin.com/in/lakshmi-krishna-v-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi krishna v r" height="30" width="40" /></a>
-<a href="https://instagram.com/_lakzzz___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lakzzz___" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lakshmikrishnavr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Lakshmi-krishna-vr" height="30" width="40" /></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=Lakshmi-krishna-vr">
+      <img src="https://github-profile-trophy.vercel.app/?username=Lakshmi-krishna-vr" alt="Lakshmi-krishna-vr" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3><br>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="420" height="260" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshmi-krishna-vr&show_icons=true&locale=en" alt="lakshmi-krishna-vr" /></p>
+### 🌱 Currently Studying  
+**Computer Science Engineering** (Saintgits College of Engineering)  
+GPA: **8.479 / S4**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmi-krishna-vr&" alt="lakshmi-krishna-vr" /></p>
+### 📫 Contact  
+**Email:** vrlakshmikrishna@gmail.com  
+**Phone:** +91 8075605169
+
+### ⚡ Fun Fact  
+**Code, Coffee, Repeat ☕💻**
+
+---
+
+## 🚀 Experience
+
+### 🔹 Intel — **Industrial Trainee** (May 2025 – July 2025)
+- Focused on **image enhancement & knowledge distillation**.  
+- Built a **real-time image sharpening system** where a large teacher model trained a lightweight student.  
+- Achieved **SSIM = 0.94** and **PSNR = 34.79 dB**.  
+- Optimized models for **edge devices** and prepared the final technical report.
+
+### 🔹 NeST Digital — **Cloud Computing Intern** (Jun 2025 – Jul 2025)
+- Hands-on with **Azure VMs, App Services, Blob Storage, SQL, Cosmos DB, CI/CD Pipelines**.  
+- Built a **Student-Class Management API** with Postman testing.  
+- Gained strong foundations in **deploying scalable cloud applications**.
+
+---
+
+## 📘 Projects
+
+### 🔸 Image Sharpening using Knowledge Distillation (May–July 2025)
+- Designed a **deep learning based** sharpening model for motion/compression blur.  
+- Student–Teacher architecture using the **DIV2K dataset**.  
+- Optimized for **smartphones & video conferencing** applications.  
+- SSIM **0.94**, PSNR **34.79 dB**.
+
+### 🔸 Sentiment Analysis on Customer Reviews (May–July 2024)
+- Compared **RoBERTa** and **VADER** sentiment models.  
+- Built visualizations: pair plots, bar charts.  
+- Analyzed correlation between star ratings & sentiment scores.
+
+### 🔸 Spam Mail Prediction (Oct–Dec 2024)
+- Built an ML classifier using **TF-IDF + Logistic Regression / Naive Bayes**.  
+- High accuracy in email spam detection.  
+- Improved email filtering efficiency.
+
+### 🔸 Iris Prediction Model (May–July 2023)
+- Simple ML model using **scikit-learn** for Iris species classification.  
+- Achieved high accuracy.
+
+---
+
+## 🎓 Education
+
+- **B.Tech in Computer Science Engineering** — Saintgits College of Engineering (2023–2027)  
+  GPA: **8.479**  
+- **Class 12 — 94%**, Kendriya Vidyalaya Kanjikode (2023)  
+- **Class 10 — 94.6%**, Kendriya Vidyalaya Kanjikode (2021)
+
+---
+
+## 🛠️ Skills
+
+### Programming  
+Python, Java, JavaScript, SQL, HTML, CSS  
+
+### ML & AI  
+Machine Learning, Deep Learning, Data Visualization, TF–IDF, VADER, RoBERTa  
+
+### Tools & Frameworks  
+TensorFlow, OpenCV, Git, Azure Cloud, CI/CD, Postman
+
+### Leadership  
+- **Open Source Club – Core Team Lead** (May 2024 – Present)  
+- **Blockchain Club – Event Head** (Oct 2025 – Present)
+
+---
+
+## 🏆 Achievements  
+- **Stride Makeathon Finalist 2025** — Developed *Eazip*, an adaptive zip mechanism helping students with tremors or physical disabilities.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/lakshmi-krishna-v-r" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/_lakzzz___" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+<a href="https://www.youtube.com/c/lakshmikrishnavr" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+</p>
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshmi-krishna-vr&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmi-krishna-vr" />
+</p>
