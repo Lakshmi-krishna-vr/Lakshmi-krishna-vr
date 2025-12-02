@@ -19,14 +19,9 @@ I am a Computer Science Engineering student passionate about building intelligen
 
 ### 🌱 Currently Studying  
 **Computer Science Engineering** (Saintgits College of Engineering)  
-GPA: **8.479 / S4**
 
 ### 📫 Contact  
 **Email:** vrlakshmikrishna@gmail.com  
-**Phone:** +91 8075605169
-
-### ⚡ Fun Fact  
-**Code, Coffee, Repeat ☕💻**
 
 ---
 
