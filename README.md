@@ -48,6 +48,11 @@ I am a Computer Science Engineering student passionate about building intelligen
 - Optimized for **smartphones & video conferencing** applications.  
 - SSIM **0.94**, PSNR **34.79 dB**.
 
+### 🔸 Accent-Based Cuisine Recommender (Oct - Nov 2025)
+A smart application that analyzes speech, detects the user’s regional accent, and instantly
+recommends matching Indian cuisines using an ML-powered audio classifier and a cuisine-mapping
+recommendation engine.
+
 ### 🔸 Sentiment Analysis on Customer Reviews (May–July 2024)
 - Compared **RoBERTa** and **VADER** sentiment models.  
 - Built visualizations: pair plots, bar charts.  
