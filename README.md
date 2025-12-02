@@ -17,8 +17,6 @@ I am a Computer Science Engineering student passionate about building intelligen
   </a>
 </p>
 
-<img align="right" alt="Coding" width="420" height="260" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-
 ### 🌱 Currently Studying  
 **Computer Science Engineering** (Saintgits College of Engineering)  
 GPA: **8.479 / S4**
