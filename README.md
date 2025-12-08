@@ -13,7 +13,7 @@ I am a Computer Science Engineering student passionate about building intelligen
 
 <p align="left">
   <a href="https://github-profile-trophy.vercel.app/?username=Lakshmi-krishna-vr">
-      <img src="https://github-profile-trophy.vercel.app/?username=Lakshmi-krishna-vr" alt="Lakshmi-krishna-vr" />
+      
   </a>
 </p>
 
