@@ -9,15 +9,6 @@ Focused on solving real-world problems with scalable and efficient solutions.
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech CSE @ Saintgits College of Engineering (GPA: 8.479)
-- 🧠 Research Intern @ IIIT Hyderabad (Speech AI - HuBERT)
-- 💻 Strong in Python, ML, and Full Stack Development
-- ☁️ Hands-on with Microsoft Azure & CI/CD
-- ⚡ Love building **real-world AI products**
-
----
-
 ## 🧪 Experience
 
 ### 🔹 IIIT Hyderabad — Research Intern (Oct 2025 – Present)
