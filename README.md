@@ -1,120 +1,147 @@
-<div style="background-color: black; padding: 20px;">
+<h1 align="center">Hi 👋, I'm Lakshmi Krishna V R</h1>
 
-<h1 align="center" style="color: white;"><strong> Hi 👋, I'm Lakshmi Krishna V R </strong></h1>
+<h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | Cloud Enthusiast</h3>
 
-<h2 align="center" style="color: white;"><i>Coding Enthusiast | ML & AI | Cloud Computing | Data Science</i></h2>
-
-<h5 align="center" style="color: white;">
-I am a Computer Science Engineering student passionate about building intelligent systems using Machine Learning, Deep Learning, and Cloud technologies. I enjoy solving real-world problems, developing innovative software solutions, and learning cutting-edge technologies.
-</h5>
-</div>
-
----
-
-<p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=Lakshmi-krishna-vr">
-      
-  </a>
+<p align="center">
+Building intelligent systems using Machine Learning, Deep Learning, and Cloud technologies.<br>
+Focused on solving real-world problems with scalable and efficient solutions.
 </p>
 
-### 🌱 Currently Studying  
-**Computer Science Engineering** (Saintgits College of Engineering)  
+---
 
-### 📫 Contact  
-**Email:** vrlakshmikrishna@gmail.com  
+## 🚀 About Me
+- 🎓 B.Tech CSE @ Saintgits College of Engineering (GPA: 8.479)
+- 🧠 Research Intern @ IIIT Hyderabad (Speech AI - HuBERT)
+- 💻 Strong in Python, ML, and Full Stack Development
+- ☁️ Hands-on with Microsoft Azure & CI/CD
+- ⚡ Love building **real-world AI products**
 
 ---
 
-## 🚀 Experience
+## 🧪 Experience
 
-### 🔹 Intel — **Industrial Trainee** (May 2025 – July 2025)
-- Focused on **image enhancement & knowledge distillation**.  
-- Built a **real-time image sharpening system** where a large teacher model trained a lightweight student.  
-- Achieved **SSIM = 0.94** and **PSNR = 34.79 dB**.  
-- Optimized models for **edge devices** and prepared the final technical report.
+### 🔹 IIIT Hyderabad — Research Intern (Oct 2025 – Present)
+- Working on **speech processing using HuBERT**
+- Built pipelines for **language identification from audio**
+- Improved model performance through optimized data processing
 
-### 🔹 NeST Digital — **Cloud Computing Intern** (Jun 2025 – Jul 2025)
-- Hands-on with **Azure VMs, App Services, Blob Storage, SQL, Cosmos DB, CI/CD Pipelines**.  
-- Built a **Student-Class Management API** with Postman testing.  
-- Gained strong foundations in **deploying scalable cloud applications**.
+---
+
+### 🔹 Intel — Industrial Trainee (May 2025 – July 2025)
+- Developed **Image Sharpening using Knowledge Distillation**
+- Built **Teacher–Student deep learning models**
+- Achieved:
+  - 📊 SSIM: **0.94**
+  - 📈 PSNR: **34.79 dB**
+- Optimized for **real-time & edge deployment**
+
+---
+
+### 🔹 NeST Digital — Cloud Intern (Jun 2025 – Jul 2025)
+- Worked on **Azure VMs, App Services, Blob Storage, SQL, Cosmos DB**
+- Built **Student-Class Management API**
+- Implemented **CI/CD pipelines**
+- Deployed scalable cloud-based solutions
 
 ---
 
 ## 📘 Projects
 
-### 🔸 Image Sharpening using Knowledge Distillation (May–July 2025)
-- Designed a **deep learning based** sharpening model for motion/compression blur.  
-- Student–Teacher architecture using the **DIV2K dataset**.  
-- Optimized for **smartphones & video conferencing** applications.  
-- SSIM **0.94**, PSNR **34.79 dB**.
-
-### 🔸 Accent-Based Cuisine Recommender (Oct - Nov 2025)
-A smart application that analyzes speech, detects the user’s regional accent, and instantly
-recommends matching Indian cuisines using an ML-powered audio classifier and a cuisine-mapping
-recommendation engine.
-
-### 🔸 Sentiment Analysis on Customer Reviews (May–July 2024)
-- Compared **RoBERTa** and **VADER** sentiment models.  
-- Built visualizations: pair plots, bar charts.  
-- Analyzed correlation between star ratings & sentiment scores.
-
-### 🔸 Spam Mail Prediction (Oct–Dec 2024)
-- Built an ML classifier using **TF-IDF + Logistic Regression / Naive Bayes**.  
-- High accuracy in email spam detection.  
-- Improved email filtering efficiency.
-
-### 🔸 Iris Prediction Model (May–July 2023)
-- Simple ML model using **scikit-learn** for Iris species classification.  
-- Achieved high accuracy.
+### 🎤 Speech Flavor Mapper
+- AI system mapping **accent → cuisine recommendation**
+- Used **MFCC + HuBERT embeddings + SVC**
+- 🎯 Achieved **100% accuracy (6 classes)**
+- Built with **Gradio + Hugging Face Spaces**
 
 ---
 
-## 🎓 Education
-
-- **B.Tech in Computer Science Engineering** — Saintgits College of Engineering (2023–2027)  
-  GPA: **8.479**  
-- **Class 12 — 94%**, Kendriya Vidyalaya Kanjikode (2023)  
-- **Class 10 — 94.6%**, Kendriya Vidyalaya Kanjikode (2021)
-
----
-
-## 🛠️ Skills
-
-### Programming  
-Python, Java, JavaScript, SQL, HTML, CSS  
-
-### ML & AI  
-Machine Learning, Deep Learning, Data Visualization, TF–IDF, VADER, RoBERTa  
-
-### Tools & Frameworks  
-TensorFlow, OpenCV, Git, Azure Cloud, CI/CD, Postman
-
-### Leadership  
-- **Open Source Club – Core Team Lead** (May 2024 – Present)  
-- **Blockchain Club – Event Head** (Oct 2025 – Present)
+### 🤝 Link-It
+- Skill-based collaboration platform for students & developers
+- Features:
+  - 🔍 Skill discovery
+  - ✅ Trust engine (verification + endorsements)
+  - 📂 Portfolio linking
 
 ---
 
-## 🏆 Achievements  
-- **Stride Makeathon Finalist 2025** — Developed *Eazip*, an adaptive zip mechanism helping students with tremors or physical disabilities.
+### 🖼️ Image Sharpening (Knowledge Distillation)
+- Deep learning-based image enhancement system
+- Trained on **DIV2K dataset**
+- Optimized for **smartphones & video conferencing**
+- High-quality output with efficient inference
 
 ---
 
-## 🌐 Connect With Me
+### 💬 Sentiment Analysis
+- Compared **RoBERTa vs VADER**
+- Built data visualizations & insights dashboard
 
-<p align="left">
-<a href="https://www.linkedin.com/in/lakshmi-krishna-v-r" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/_lakzzz___" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-<a href="https://www.youtube.com/c/lakshmikrishnavr" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-</a>
+---
+
+### 📧 Spam Mail Detection
+- NLP-based classification using **TF-IDF**
+- Models: Logistic Regression, Naive Bayes
+
+---
+
+### 🌸 Iris Prediction
+- Classic ML model using **scikit-learn**
+- High accuracy classification
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`Python` `Java` `JavaScript` `SQL`
+
+### ⚙️ AI/ML
+`Machine Learning` `Deep Learning` `TensorFlow` `OpenCV`
+
+### 🌐 Web & Cloud
+`HTML` `CSS` `Express.js` `Microsoft Azure` `CI/CD`
+
+### 🔧 Tools
+`Git` `Postman`
+
+---
+
+## 🏆 Achievements
+- 🥇 **Stride Makeathon Finalist (2025)**
+- Built **Eazip** — Assistive device for people with tremors
+
+---
+
+## 👥 Leadership
+- 🚀 Open Source Club — Core Team Lead  
+- ⛓️ Blockchain Club — Event Head  
+- 🎯 SWAG Club — Project Coordinator  
+- 💰 ACM — Finance Team  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: vrlakshmikrishna@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/lakshmi-krishna-v-r  
+- 📸 Instagram: https://instagram.com/_lakzzz___  
+- ▶️ YouTube: https://www.youtube.com/c/lakshmikrishnavr  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshmi-krishna-vr&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lakshmi-krishna-vr&theme=tokyonight" />
 </p>
 
 ---
+
+## 💡 Quote
+_"Building intelligent systems that solve real-world problems."_
 
 ## 🧰 Languages & Tools
 
