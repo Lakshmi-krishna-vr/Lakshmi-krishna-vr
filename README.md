@@ -134,10 +134,4 @@ _"Building intelligent systems that solve real-world problems."_
 
 ---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshmi-krishna-vr&show_icons=true&locale=en" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmi-krishna-vr" />
-</p>
