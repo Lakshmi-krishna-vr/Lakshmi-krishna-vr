@@ -113,12 +113,13 @@ Focused on solving real-world problems with scalable and efficient solutions.
 
 ## 📫 Connect With Me
 - 📧 Email: vrlakshmikrishna@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/lakshmi-krishna-v-r  
-- 📸 Instagram: https://instagram.com/_lakzzz___  
-- ▶️ YouTube: https://www.youtube.com/c/lakshmikrishnavr  
+- 💼 LinkedIn: https://www.linkedin.com/in/lakshmi-krishna-v-r    
 
 ---
 
+
+## 💡 Quote
+_"Building intelligent systems that solve real-world problems."_
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -130,22 +131,6 @@ Focused on solving real-world problems with scalable and efficient solutions.
 </p>
 
 ---
-
-## 💡 Quote
-_"Building intelligent systems that solve real-world problems."_
-
-## 🧰 Languages & Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-</p>
 
 ---
 
