@@ -1,125 +1,168 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Krishna V R</h1>
 
-<h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | Cloud Enthusiast</h3>
+<h3 align="center">🚀 Software Developer | AI/ML Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
-Building intelligent systems using Machine Learning, Deep Learning, and Cloud technologies.<br>
-Focused on solving real-world problems with scalable and efficient solutions.
+Passionate Computer Science Engineering student focused on building intelligent systems, scalable web applications, and impactful software solutions.
 </p>
 
 ---
 
-## 🧪 Experience
+## 👨‍💻 About Me
 
-### 🔹 IIIT Hyderabad — Research Intern (Oct 2025 – Present)
-- Working on **speech processing using HuBERT**
-- Built pipelines for **language identification from audio**
-- Improved model performance through optimized data processing
-
----
-
-### 🔹 Intel — Industrial Trainee (May 2025 – July 2025)
-- Developed **Image Sharpening using Knowledge Distillation**
-- Built **Teacher–Student deep learning models**
-- Achieved:
-  - 📊 SSIM: **0.94**
-  - 📈 PSNR: **34.79 dB**
-- Optimized for **real-time & edge deployment**
+* 🎓 B.Tech Computer Science Engineering, Saintgits College of Engineering (2023–2027)
+* 📊 CGPA: **8.39**
+* 💻 Interested in Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Computing, and Software Engineering
+* 🚀 Building technology that solves real-world problems
 
 ---
 
-### 🔹 NeST Digital — Cloud Intern (Jun 2025 – Jul 2025)
-- Worked on **Azure VMs, App Services, Blob Storage, SQL, Cosmos DB**
-- Built **Student-Class Management API**
-- Implemented **CI/CD pipelines**
-- Deployed scalable cloud-based solutions
+## 💼 Experience
+
+### 🔹 Software Development Intern — Dieutek Developments
+
+**Jun 2026 – Present**
+
+* Working with JavaScript, React.js, Next.js, and MongoDB
+* Developing full-stack web applications
+* Implementing component-based architecture, routing, and state management
+
+### 🔹 Software Developer — SWAG Development Club
+
+**Jan 2025 – Present**
+
+* Developing an Authority-Controlled Digital Venue Management System
+* Building backend APIs using Flask and Supabase
+* Implementing venue scheduling, approval workflows, and facility management
+
+### 🔹 IIITH Master Research Program
+
+**Oct 2025 – Jun 2026**
+
+* Worked on speech processing research using HuBERT
+* Developed audio processing pipelines for language identification
+* Improved model performance through optimized data handling
+
+### 🔹 Intel Industrial Trainee
+
+**May 2025 – Jun 2025**
+
+* Developed an image sharpening system using Knowledge Distillation
+* Built Teacher–Student deep learning architectures
+* Evaluated models using SSIM and PSNR metrics
+* Optimized solutions for real-time deployment
+
+### 🔹 NeST Digital Cloud Intern
+
+**Jun 2025 – Jul 2025**
+
+* Worked with Azure VMs, App Services, Blob Storage, SQL, and Cosmos DB
+* Built Student-Class Management APIs
+* Implemented CI/CD pipelines and cloud deployment workflows
 
 ---
 
-## 📘 Projects
+## 🚀 Featured Projects
 
-### 🎤 Speech Flavor Mapper
-- AI system mapping **accent → cuisine recommendation**
-- Used **MFCC + HuBERT embeddings + SVC**
-- 🎯 Achieved **100% accuracy (6 classes)**
-- Built with **Gradio + Hugging Face Spaces**
+### 🎤 Multimodal Emotion Recognition
 
----
+**Tech Stack:** Python, PyTorch, Librosa, BERT, BiLSTM, Streamlit
 
-### 🤝 Link-It
-- Skill-based collaboration platform for students & developers
-- Features:
-  - 🔍 Skill discovery
-  - ✅ Trust engine (verification + endorsements)
-  - 📂 Portfolio linking
+* Achieved **99.05% test accuracy**
+* Combined speech and text understanding through multimodal fusion
+* Deployed a real-time Streamlit application
 
----
+### 📡 RescueLink
 
-### 🖼️ Image Sharpening (Knowledge Distillation)
-- Deep learning-based image enhancement system
-- Trained on **DIV2K dataset**
-- Optimized for **smartphones & video conferencing**
-- High-quality output with efficient inference
+**Tech Stack:** Java, Android SDK, BLE, Wi-Fi Direct
 
----
+* Offline communication platform for disaster situations
+* Supports SOS alerts, voice communication, and GPS tracking
+* Built using multi-hop networking architecture
 
-### 💬 Sentiment Analysis
-- Compared **RoBERTa vs VADER**
-- Built data visualizations & insights dashboard
+### 🍲 Speech Flavor Mapper
 
----
+**Tech Stack:** Python, MFCC, HuBERT, SVC, Gradio
 
-### 📧 Spam Mail Detection
-- NLP-based classification using **TF-IDF**
-- Models: Logistic Regression, Naive Bayes
+* Accent-based cuisine recommendation system
+* Achieved **100% classification accuracy**
+* Deployed on Hugging Face Spaces
 
----
+### 🖼️ Image Sharpening Using Knowledge Distillation
 
-### 🌸 Iris Prediction
-- Classic ML model using **scikit-learn**
-- High accuracy classification
+**Tech Stack:** Python, PyTorch, CNN, DIV2K
+
+* Developed a lightweight image enhancement model
+* SSIM: **0.94**
+* PSNR: **34.79 dB**
+* Optimized for edge deployment
+
+### 🏫 Authority-Controlled Digital Venue Management System
+
+**Tech Stack:** Flask, Supabase, PostgreSQL, Tailwind CSS
+
+* Role-based venue and event management system
+* Automated approval workflows
+* Real-time calendar and scheduling support
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 `Python` `Java` `JavaScript` `SQL`
 
-### ⚙️ AI/ML
-`Machine Learning` `Deep Learning` `TensorFlow` `OpenCV`
+### ⚙️ AI / ML
 
-### 🌐 Web & Cloud
-`HTML` `CSS` `Express.js` `Microsoft Azure` `CI/CD`
+`Machine Learning` `Deep Learning` `PyTorch` `TensorFlow` `OpenCV`
+
+### 🌐 Web Development
+
+`HTML` `CSS` `JavaScript` `Flask` `React` `Express.js`
+
+### ☁️ Cloud & DevOps
+
+`Microsoft Azure` `CI/CD` `Docker`
 
 ### 🔧 Tools
-`Git` `Postman`
+
+`Git` `Postman` `Supabase`
 
 ---
 
 ## 🏆 Achievements
-- 🥇 **Stride Makeathon Finalist (2025)**
-- Built **Eazip** — Assistive device for people with tremors
+
+🥇 **Stride Makeathon Finalist 2025**
+
+**Eazip – Adaptive Zip Mechanism**
+
+Assistive device designed for individuals with tremors.
 
 ---
 
 ## 👥 Leadership
-- 🚀 Open Source Club — Core Team Lead  
-- ⛓️ Blockchain Club — Event Head  
-- 🎯 SWAG Club — Project Coordinator  
-- 💰 ACM — Finance Team  
+
+### 🚀 Open Source Club
+
+**Core Team Lead & Treasurer**
+
+### 🎯 SWAG Club
+
+**Project Coordinator**
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: vrlakshmikrishna@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/lakshmi-krishna-v-r    
+
+📧 Email: **[vrlakshmikrishna@gmail.com](mailto:vrlakshmikrishna@gmail.com)**
+
+💼 LinkedIn: [www.linkedin.com/in/lakshmi-krishna-v-r](http://www.linkedin.com/in/lakshmi-krishna-v-r)
+
+🐙 GitHub: github.com/lakshmi-krishna-vr
 
 ---
 
-
-## 💡 Quote
-_"Building intelligent systems that solve real-world problems."_
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -127,11 +170,15 @@ _"Building intelligent systems that solve real-world problems."_
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lakshmi-krishna-vr&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmi-krishna-vr&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-krishna-vr&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
----
+## 💡 Motto
 
-
+> Building intelligent systems and scalable software that create real-world impact.
