@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Krishna V R</h1>
 
-<h3 align="center">🚀 Software Developer | AI/ML | Coding</h3>
+<h3 align="center"> Software Developer | AI/ML | Coding</h3>
 
 <p align="center">
 Passionate Computer Science Engineering student focused on building intelligent systems, scalable web applications, and impactful software solutions.
